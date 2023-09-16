@@ -9,4 +9,4 @@ touch fi_name
 
 cd /home/coder/project/workspace
 
-echo "The folder $f_name and the file $fi_name have been created."
+echo "The folder  and the file  have been created."
