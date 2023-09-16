@@ -6,6 +6,6 @@ read -p "Enter the text " text
 
 touch f_name
 
-echo $text > $f_name
+echo $text > f_name
 
-echo "The file $f_name has been created and text is $text"
+echo "The file f_name has been created and text is $text"
