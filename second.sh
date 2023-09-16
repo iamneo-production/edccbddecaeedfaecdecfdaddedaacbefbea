@@ -1,6 +1,6 @@
 #!/bin/bash
 
-read -p "Enter the File " f_name
+
 
 read -p "Enter the text " text
 
