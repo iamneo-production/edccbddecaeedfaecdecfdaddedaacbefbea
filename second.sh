@@ -2,13 +2,10 @@
 
 
 
-# read -p "Enter the text " text
+read -p "Enter the text " text
 
-touch my_file.txt
-msg = "Hello There everyone"
+touch f_name
 
-echo $msg > my_file.txt
+echo $text > $f_name
 
-cat my_file.txt
-
-echo "The file has been created and text is $msg"
+echo "The file $f_name has been created and text is $text"
